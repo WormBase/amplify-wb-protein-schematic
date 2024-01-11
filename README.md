@@ -1,3 +1,5 @@
+This repo should be deleted; it's not being used. Look instead for https://github.com/WormBase/amplify-wb-prot-schematic
+
 # amplify-wb-protein-schematic
 Repo to drive AWS Amplify builds for the protein browser
 
